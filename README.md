@@ -19,7 +19,7 @@ metadata:
     homepage: https://lbs.qq.com/service/webService/webServiceGuide/webServiceOverview
 ---
 
-# Tencent Map Location Services Skill
+# tencentmap-lbs-skill
 
 Tencent Map Location Services provides developers with comprehensive map data services, including nearby search, place search, route planning, travel planning and more.
 
